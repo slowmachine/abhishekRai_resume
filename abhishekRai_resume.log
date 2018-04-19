@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 01:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 01:10
 entering extended mode
 **./abhishekRai_resume.tex
 (abhishekRai_resume.tex
@@ -181,19 +181,121 @@ LaTeX Info: Redefining \] on input line 2818.
 (/home/dedsec/.miktex/texmfs/install/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count103
-))
-! Emergency stop.
-<*> ./abhishekRai_resume.tex
-                            
-*** (job aborted, no legal \end found)
+)
+(abhishekRai_resume.aux)
+\openout1 = `abhishekRai_resume.aux'.
 
- 
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 77.
+LaTeX Font Info:    ... okay on input line 77.
+
+(/home/dedsec/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen120
+\scratchbox=\box29
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen121
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks22
+) (/home/dedsec/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/home/dedsec/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/home/dedsec/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/home/dedsec/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+<PHOTO.jpg, id=1, 160.6pt x 208.78pt>
+File: PHOTO.jpg Graphic file (type jpg)
+<use PHOTO.jpg>
+Package pdftex.def Info: PHOTO.jpg  used on input line 82.
+(pdftex.def)             Requested size: 71.13188pt x 92.47194pt.
+
+Overfull \hbox (49.14474pt too wide) in paragraph at lines 109--123
+ [] 
+ []
+
+
+Overfull \vbox (18.06749pt too high) has occurred while \output is active []
+
+
+[1
+
+{/home/dedsec/.miktex/texmfs/data/pdftex/config/pdftex.map} <./PHOTO.jpg>]
+(abhishekRai_resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2515 strings out of 494894
- 31475 string characters out of 3178672
- 107642 words of memory out of 3000000
- 6166 multiletter control sequences out of 15000+200000
- 3940 words of font info for 15 fonts, out of 3000000 for 9000
+ 3370 strings out of 494894
+ 45007 string characters out of 3178672
+ 124940 words of memory out of 3000000
+ 6958 multiletter control sequences out of 15000+200000
+ 7966 words of font info for 29 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 27i,0n,35p,806b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 41i,8n,35p,806b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/dedsec/.miktex/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb></home/dedsec/.miktex/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb></home/dedsec/.miktex/texmfs/install/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb>
+Output written on abhishekRai_resume.pdf (1 page, 53621 bytes).
+PDF statistics:
+ 19 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
