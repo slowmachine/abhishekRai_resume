@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 00:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 01:00
 entering extended mode
 **./abhishekRai_resume.tex
 (abhishekRai_resume.tex
@@ -189,10 +189,10 @@ Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 
  
 Here is how much of TeX's memory you used:
- 2509 strings out of 494894
- 31432 string characters out of 3178672
+ 2515 strings out of 494894
+ 31475 string characters out of 3178672
  107642 words of memory out of 3000000
- 6160 multiletter control sequences out of 15000+200000
+ 6166 multiletter control sequences out of 15000+200000
  3940 words of font info for 15 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  27i,0n,35p,806b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
