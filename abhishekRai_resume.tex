@@ -37,3 +37,38 @@
 \setlength{\voffset}{0.1in}
 
 %-------------------------------------------------
+
+%-----------define macro-----------
+
+\newcommand{\Sep}{\vspace{1.5em}}
+\newcommand{\SmallSep}{\vspace{0.5em}}
+
+\newenvironment{AboutMe}
+{\ignorespaces\textbf{\color{RoyalBlue} About me}}
+{\Sep\ignorespacesafterend}
+
+\newcommand{\CVSection}[1]
+{\Large\textbf{#1}\par
+	\SmallSep\normalsize\normalfont}
+
+\newcommand{\CVItem}[1]
+{\textbf{\color{RoyalBlue} #1}}
+
+%---------------------------------
+
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{\vspace{8pt}
+	\parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
+		\begin{shaded}
+			
+			\setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}\fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}\makebox[6.762in][l]{\large #1} \vphantom{p\^{E}}}}}}
+		\end{shaded}
+	}\vspace{-5pt}
+}
+
+\newcommand{\ressubheading}[4]{
+	\begin{tabular*}{6.5in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
+		\textbf{#1} & #2 \\
+		\textit{#3} & \textit{#4} \\
+	\end{tabular*}\vspace{-6pt}}
+%---------------------------------------------------
