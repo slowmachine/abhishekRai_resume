@@ -1,0 +1,39 @@
+%--------preamble----------
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx}
+\graphicspath{ {images/} }             %image path
+\usepackage{wrapfig}
+\newlength{\outerbordwidth}
+\pagestyle{empty}
+\raggedbottom
+\raggedright
+\usepackage[svgnames]{xcolor}
+\usepackage{framed}
+\usepackage{tocloft}
+\usepackage{amsmath}
+\usepackage{etoolbox}
+\robustify\cftdotfill
+
+%-----------------------------------------------------------
+%Edit these values as you see fit
+\setlength{\outerbordwidth}{3pt}  % Width of border outside of title bars
+\definecolor{shadecolor}{gray}{0.75}  % Outer background color of title bars (0 = black, 1 = white)
+\definecolor{shadecolorB}{gray}{0.93}  % Inner background color of title bars
+
+%-------------------page setup----------------------------
+%Margin setup
+\setlength{\evensidemargin}{-0.25in}
+\setlength{\headheight}{-0.25in}
+\setlength{\headsep}{0in}
+\setlength{\oddsidemargin}{-0.25in}
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8.5in}
+\setlength{\tabcolsep}{0in}
+\setlength{\textheight}{9.75in}
+\setlength{\textwidth}{7in}
+\setlength{\topmargin}{-0.3in}
+\setlength{\topskip}{0in}
+\setlength{\voffset}{0.1in}
+
+%-------------------------------------------------
