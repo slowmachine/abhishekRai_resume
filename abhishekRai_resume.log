@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 01:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650) (preloaded format=pdflatex 2018.4.16)  20 APR 2018 01:13
 entering extended mode
 **./abhishekRai_resume.tex
 (abhishekRai_resume.tex
@@ -284,7 +284,7 @@ Overfull \vbox (18.06749pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  3370 strings out of 494894
  45007 string characters out of 3178672
- 124940 words of memory out of 3000000
+ 126940 words of memory out of 3000000
  6958 multiletter control sequences out of 15000+200000
  7966 words of font info for 29 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -293,7 +293,7 @@ Here is how much of TeX's memory you used:
 ic/amsfonts/cm/cmbx10.pfb></home/dedsec/.miktex/texmfs/install/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></home/dedsec/.miktex/texmfs/install/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb>
-Output written on abhishekRai_resume.pdf (1 page, 53621 bytes).
+Output written on abhishekRai_resume.pdf (1 page, 58078 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
